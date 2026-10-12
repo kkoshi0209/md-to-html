@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    kramdown (2.5.2)
+      rexml (>= 3.4.4)
+    kramdown-parser-gfm (1.1.0)
+      kramdown (~> 2.0)
+    rexml (3.4.4)
+    rouge (5.1.0)
+      strscan (~> 3.1)
+    strscan (3.1.8)
+
+PLATFORMS
+  arm64-darwin-25
+  ruby
+
+DEPENDENCIES
+  kramdown (~> 2.5)
+  kramdown-parser-gfm (~> 1.1)
+  rouge (~> 5.1)
+
+BUNDLED WITH
+   2.6.3
